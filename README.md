@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandar Dumbre</h1>
-<h3 align="center">Engineer | Builder | Case Solver | IEEE Author</h3>
+<h3 align="center">Engineer | Product Builder | Problem Solver | IEEE Author</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/28md/">
